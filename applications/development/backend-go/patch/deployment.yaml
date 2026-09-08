@@ -10,7 +10,7 @@ spec:
     spec:
       containers:
       - name: app
-        image: vianbas/backend-go:5
+        image: vianbas/backend-go:6
         resources:
           requests:
             cpu: 50m
