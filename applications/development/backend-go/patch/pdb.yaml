@@ -7,4 +7,4 @@ spec:
   maxUnavailable: 100%
   selector:
     matchLabels:
-      service_name: dpl
+      service_name: backend-go
